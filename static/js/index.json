@@ -569,5 +569,20 @@
 			"price": "5799",
 			"imgURL": ""
 		}]
+	}, {
+		"type": "shoppingCart",
+		"res": [{
+			"id": "11001",
+			"color": "green",
+			"price": "4499",
+			"capacity": "128",
+			"amount": "1"
+		}, {
+			"id": "11001",
+			"color": "green",
+			"price": "4499",
+			"capacity": "128",
+			"amount": "10"
+		}]
 	}]
 }
